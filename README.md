@@ -51,8 +51,8 @@ O sistema também contabiliza o número de tentativas realizadas durante a parti
 
 📸 Preview
 
-![Tela Marvel](img/telaMarvel.png)
-![Tela DC](img/telaDC.png)
+![Tela Marvel](/jogo_da_memoria/img/telaMarvel.png)
+![Tela DC](/jogo_da_memoria/img/telaDC.png)
 
 ▶️ Como Executar o Projeto
 
