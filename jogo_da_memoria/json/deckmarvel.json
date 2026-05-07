@@ -1,0 +1,23 @@
+{
+    "cartas2" : ["./img/marvel/logoMarvel.jpg"] ,
+
+    "cartas": [
+    "./img/marvel/CapitaoAmerica.jpg",
+    "./img/marvel/CapitaoAmerica.jpg",
+
+    "./img/marvel/HomemDeFerro.jpg",
+    "./img/marvel/HomemDeFerro.jpg",
+
+    "./img/marvel/Hulk.jpg" ,
+    "./img/marvel/Hulk.jpg" ,
+
+    "./img/marvel/Thor.jpg" ,
+    "./img/marvel/Thor.jpg" , 
+
+    "./img/marvel/HomemAranha.jpg" , 
+    "./img/marvel/HomemAranha.jpg" , 
+
+    "./img/marvel/DeadPool.jpg" , 
+    "./img/marvel/DeadPool.jpg" 
+  ]
+}

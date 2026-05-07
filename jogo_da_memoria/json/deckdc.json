@@ -1,0 +1,24 @@
+{
+    "cartas2" : ["./img/dc/dcComics.jpg"] ,
+    
+    "cartas": [
+
+    "./img/dc/Alerquina.jpg" ,
+    "./img/dc/Alerquina.jpg" ,
+
+    "./img/dc/Batman.jpg" ,
+    "./img/dc/Batman.jpg" ,
+
+    "./img/dc/SuperHomem.jpg" ,
+    "./img/dc/SuperHomem.jpg" ,
+
+    "./img/dc/SuperGirl.jpg" ,
+    "./img/dc/SuperGirl.jpg" ,
+
+    "./img/dc/Flash.jpg" ,
+    "./img/dc/Flash.jpg" ,
+
+    "./img/dc/MulherMaravilha.jpg" ,
+    "./img/dc/MulherMaravilha.jpg" 
+] 
+}
